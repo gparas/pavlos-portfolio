@@ -12,7 +12,7 @@ export default function Contact() {
         primary="let’s talk about you!"
         secondary="That’s enough about me,"
       />
-      <Typography> If you want to chat please contact me at</Typography>
+      <Typography> If you want to chat, please contact me at</Typography>
       <Typography>
         Phone: <Mailto tel={contactInfo.tel} /> & Email:{' '}
         <Mailto
