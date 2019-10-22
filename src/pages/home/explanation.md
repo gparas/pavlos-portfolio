@@ -2,6 +2,7 @@
 
 **Three foundations of Lean UX**
 
+
 **Design Thinking:** think like a designer, drive the business direction by observing what people want and need, like or dislike and refine requirements accordingly
 
 **Agile Software Development:** 
