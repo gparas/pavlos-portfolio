@@ -14,7 +14,7 @@
     "@material-ui/styles": "^4.4.1",
     "clsx": "^1.0.4",
     "lodash.camelcase": "^4.3.0",
-    "markdown-to-jsx": "^6.10.3",
+    "markdown-to-jsx": "^6.11.4",
     "next": "9.0.5",
     "prop-types": "^15.7.2",
     "raw-loader": "^3.1.0",
